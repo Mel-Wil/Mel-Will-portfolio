@@ -1,0 +1,67 @@
+.html{font-size: 62.5%;list-style-type: none;}
+.navbar{background: rgb(218, 218, 218);position: absolute;top: 0%; left: 0.1%;width: 99.7vw; height: 15vh;position: fixed;z-index: 1;}
+.navlist{list-style-type: none;margin: 2.7rem 2rem 0 0;font-size: 1.2rem;color: rgb(173, 173, 173); font-family: Monasans, sans-serif;}
+.name{font-size: 1.8rem;font-family: Monasans, sans-serif;font-weight: 600;margin: 2.1rem 0 0 3.4rem;}
+.list{display: flex;justify-content: end;position: absolute;right: 12%;  bottom: 14%;}
+.navbutton{background-color: #9efcd8;border:none;color: rgb(82, 75, 75);border-radius: 0.7rem;height: 7vh; width: 7vw;margin-top: 1.9rem;font-size: 1rem;position: absolute;left: 99%;  top: 6%;}
+.navlist:hover, .resume:hover, .cont:hover{color: black;cursor: pointer;transition: 1.25s;}
+.navbutton:hover{background-color: #46e6a9;border: none;transition: 0.5s;color:rgb(0, 0, 0) ;cursor: pointer;}
+.hello{position: absolute;top: 45%; left: 7%;font-size: 3rem;line-height: 4.2rem;color: #2e2e2e;font-weight: 700;letter-spacing: 0.1rem;font-family: Monasans, sans-serif;}
+.text{position: absolute;top: 75%;left: 7%; line-height: 2.2rem;font-size: 1.4rem; color: #777777;font-family: Monasans, sans-serif;}
+.first{position: absolute;left: 67%; top: 52%;}
+.second{position:absolute;top: 99%;left: 9%;width: 12vw; height: 9vh; font-size: 1.2rem;background-color: none;}
+.circle{position: absolute;top: 100.8%;left: 23%;}
+.available{position: absolute;top: 104.4%; left: 29%;font-size: 1.2rem;font-family:Monasans, sans-serif; color:#2e2e2e;}
+.projects{position: absolute;top: 150%; left: 8%; color: #2e2e2e;font-size: 2rem; font-family: Monasans, sans-serif;}
+.black{background: #3e3d3d;width: 83vw;height: 110vh;position: absolute;top: 170%; left: 7.6%;border-radius: 2rem;overflow: hidden;}
+.first-project{height: 86vh;position:absolute; top: 14%; left: 50%;}
+.second-img{position: absolute;top: -8.5%; left: 75%;height:85vh; width: 19vw;}
+.eco{color: #fafafa;position:absolute; font-family: Monasans, sans-serif;top: 33%; left: 7%; font-size: 3rem;}
+.narative{color: #cecece;position:absolute;top: 45%; left: 7%; font-size: 1.5rem; font-family: Monasans, sans-serif;line-height: 2.4rem; letter-spacing: 0.1rem;}
+.first-casestudy{position: absolute; top: 73%; left: 9%;border: none; border-radius: 0.5rem;background: #666; cursor: pointer;height: 9vh; width: 15vw; font-size:1.1rem; font-family: Monasans, sans-serif;}
+.blue{background: rgba(9,157,160,.5);width: 83vw;height: 110vh;position: absolute;top: 290%; left: 7.6%;border-radius: 2rem;overflow: hidden;}
+.ecom{ top: 24%;left: 47%;} .narativa{ top: 37%;left: 47%;}
+.second-casestudy{font-size: 1.1rem;left: 49%; top: 64%; background: rgba(85, 85, 85, 0.3); cursor: pointer;}
+.qualities{position: absolute; top: 425%; left: 9%;  color: #2e2e2e; font-size: 2rem; font-family: Monasans, sans-serif;}
+.circles{ position: absolute;top: 448.8%;left: 4%; width: 42vw; height: 57vh; border-radius: 1.2rem; background: #46e6a9;}
+.empathy{color: #fafafa;position: absolute;top: 4%;left: 13.7%; font-size: 1.8rem; font-family: Monasans, sans-serif;}
+.empathy-narate{ color: #fafafa;position: absolute;top: 19%;left: 13.7%; font-size: 1.1rem; line-height: 2rem; font-family: Monasans, sans-serif;}
+.circlez{ position: absolute;top: 448.8%;left: 49%;width: 47vw; height: 77vh; border-radius: 1.2rem; background:rgba(9, 157, 160, .5);}
+.collaboration{ color: #fafafa;position: absolute;top: 3.5%;left: 15%; font-size: 1.8rem; font-family: Monasans, sans-serif;}
+.collaboration-narative{ color: #fafafa;position:absolute;top: 17%;left: 15%; font-size: 1.1rem; line-height: 2rem; font-family: Monasans, sans-serif;}
+.circlet{ background: #a59c90; width: 42vw; height: 64vh; border-radius: 1.2rem;  position: absolute;top: 510.4%;left: 4%;}
+.details{color: #fafafa;position: absolute;top: 4.9%;left: 13.7%; font-size: 1.8rem; font-family: Monasans, sans-serif;}
+.details-narate{color: #fafafa;position:absolute;top: 21%;left: 13.8%; font-size: 1.1rem; line-height: 2rem; font-family: Monasans, sans-serif;}
+.circleb{ position: absolute;top: 530%;left: 49.5%; width: 47vw; height: 67vh; background: #775f7f; border-radius: 1.2rem;}
+.creativity{ color: #fafafa;position: absolute;top: 3.5%;left: 15%; font-size: 1.8rem; font-family: Monasans, sans-serif;}
+.creativity-narate{color: #fafafa;position:absolute;top: 20%;left: 15%; font-size: 1.1rem; line-height: 2rem; font-family: Monasans, sans-serif;}
+.skills{position: absolute; top: 624%; left: 9%;font-family:  Monasans, sans-serif; color: #2e2e2e; font-size: 2rem;}
+.bar span{height: 1rem; border-radius: 2rem;background: linear-gradient(135deg, rgb(83, 143, 212)0%,rgb(131, 218, 229)100%);}
+.bar{background: #3e3d3d; width: 100%;}
+.ux,.america{width: 18%; position: absolute; top: 655%; left: 10%;}.america{top: 660%; left: 14.5%;font-family:Monasans, sans-serif; color: #757575; font-size: 1.5rem;}
+.ui , .europe{width: 18%;position: absolute; top: 655%; left: 40%;} .europe{top: 660%; left: 44.2%;font-family:Monasans, sans-serif; color: #757575; font-size: 1.5rem;}
+.web, .east{width: 16%;animation: web 3s;position: absolute; top: 715%; left: 70%;} .east{top: 720%; left: 72.5%;font-family:Monasans, sans-serif; color: #757575; font-size: 1.5rem;}
+.mobile, .asia{width: 18%;animation: mobile 3s;position: absolute; top: 655%; left: 70%;} .asia{top: 660%; left: 72.4%;font-family:Monasans, sans-serif; color: #757575; font-size: 1.5rem;}
+.proto, .south{width: 17%;animation: proto 3s;position: absolute; top: 685%; left: 70%;} .south{top: 690%; left: 73%;font-family:Monasans, sans-serif; color: #757575; font-size: 1.5rem;}
+.code, .west{width: 16%;animation: code 3s;position: absolute; top: 715%; left: 40%;} .west{top: 720%; left: 44.5%;font-family:Monasans, sans-serif; color: #757575; font-size: 1.5rem;}
+.visual, .usa{width: 18%;animation: visual 3s;position: absolute; top: 685%; left: 40%;} .usa{top: 690%; left: 42.7%;font-family:Monasans, sans-serif; color: #757575; font-size: 1.5rem;}
+.think, .africa{width: 18%;animation: think 3s;position: absolute; top: 685%; left: 10%;} .africa{top: 690%; left: 11.5%;font-family:Monasans, sans-serif; color: #757575; font-size: 1.5rem;}
+.brand, .indian{width: 17%; animation: brand 3s; position: absolute; top: 715%; left: 10%;} .indian{top: 720%; left: 13.8%;font-family:Monasans, sans-serif; color: #757575; font-size: 1.5rem;}
+.westnu{color: #757575;position: absolute; top: 709%;font-family:Monasans, sans-serif;font-size: 1.8rem;left: 59%;}
+.europenu{color: #757575;position: absolute; top: 648.5%; left: 29%; font-family: Monasans, sans-serif;font-size: 1.8rem;}
+.americanu{color: #757575;position: absolute; top: 648.5%; left: 59%;font-family: Monasans, sans-serif;font-size: 1.8rem;}
+.asianu{color: #757575;position: absolute; top: 648.5%; left: 88.8%;font-family: Monasans, sans-serif;font-size: 1.8rem;}
+.africanu{color: #757575;position: absolute; top: 678.5%; left: 29%;font-family: Monasans, sans-serif;font-size: 1.8rem;}
+.usanu{color: #757575;position: absolute; top: 678.5%; left: 59%;font-family: Monasans, sans-serif;font-size: 1.8rem;}
+.southnu{color: #757575;position: absolute; top: 678.5%; left: 88.8%;font-family: Monasans, sans-serif;font-size: 1.8rem;}
+.indiannu{color: #757575;position: absolute; top: 709%; left: 29%;font-family: Monasans, sans-serif;font-size: 1.8rem;}
+.eastnu{color: #757575;position: absolute; top: 709%; left: 88.8%;font-family: Monasans, sans-serif;font-size: 1.8rem;}
+.resume{text-decoration: none;color:  rgb(173, 173, 173);}
+.lake{height: 95vh; width: 20vw; position: absolute; top: -12%; left: 10%;}
+.last{position: absolute; top: 755%; font-family:Monasans, sans-serif;font-size: 2rem; left: 33%; line-height: 3rem;color: #484747;}
+.lastbtn{top: 780%; left:45%; bottom: 3rem;}
+.first-casestudy:hover{background: #121212; transition: 1.25s;}
+.sunday{text-decoration: none; color: #fafafa;}
+.let{text-decoration: none; color: #fafafa;}
+.second-casestudy:hover{background: #1a81c2;}
+.ex:hover, .ex.active {color: black;cursor: pointer;transition: 1.25s;}

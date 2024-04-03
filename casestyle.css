@@ -1,0 +1,31 @@
+.first-img{position: absolute;height: 100vh;top: 35%;left: 24%;}
+.first{font-family:  Monasans, sans-serif;position: absolute;top: 30%; font-size: 3.2rem; color: rgb(86, 86, 86);}
+.exp{font-family:  Monasans, sans-serif;position: absolute;top: 40%;left: 52.5%; font-size: 2.9rem;color: rgb(104, 103, 103);}
+.explation{position: absolute;top: 69%;line-height: 2.1rem; left: 52.6%; font-family: Monasans, sans-serif; font-size: 1.4rem;color:rgb(83, 81, 81);}
+.brief{position: absolute; top: 60%; left: 52.5%;font-family: Monasans, sans-serif; color: rgb(146, 146, 146); font-size: 1.1rem;}
+.client{position: absolute; top: 99%; left: 52.3%; font-family: Monasans, sans-serif; font-size: 1.1rem; color: rgb(146, 146, 146);}
+.client-name{position: absolute;top: 104%;line-height: 2.1rem; font-family: Monasans, sans-serif; font-size: 1.4rem; left: 52.3%; color:rgb(83, 81, 81);}
+.role{position: absolute; top: 114%; left: 52.3%; font-family: Monasans, sans-serif; font-size: 1.1rem; color: rgb(146, 146, 146);}
+.role-name{position: absolute;top: 119%;line-height: 2.1rem; font-family: Monasans, sans-serif; font-size: 1.4rem; left: 52.3%; color:rgb(83, 81, 81);}
+.location{position: absolute; top: 130%; left: 52.3%; font-family: Monasans, sans-serif; font-size: 1.1rem; color: rgb(146, 146, 146);}
+.location-name{position: absolute;top: 135%;line-height: 2.1rem; font-family: Monasans, sans-serif; font-size: 1.4rem; left: 52.3%; color:rgb(83, 81, 81);}
+.challenge{position: absolute; top: 167%; left: 6%; font-family: Monasans, sans-serif;color: rgb(65, 65, 65);}
+.challenge-exp{position: absolute; top: 178%; left: 6%; font-family: Monasans, sans-serif; font-size: 1.3rem; color: rgb(107, 107, 107); line-height: 2rem;}
+.goal{position: absolute; top: 244%; right: 45%; font-family: Monasans, sans-serif;color: rgb(65, 65, 65);}
+.goal-exp{position: absolute; top: 255%; right: 8%; font-family: Monasans, sans-serif; font-size: 1.3rem; color: rgb(107, 107, 107); line-height: 2rem;}
+.wireframe{position: absolute; top: 314%; left: 6%; font-family: Monasans, sans-serif;color: rgb(65, 65, 65);}
+.approach{position: absolute; top: 325%; left: 6%; font-family: Monasans, sans-serif; font-size: 1.3rem; color: rgb(107, 107, 107); line-height: 2rem;}
+.wire-img{position: absolute; top: 329%; width: 50%; right: 5%;}
+.result{position: absolute; top: 429%; left: 6%; font-family: Monasans, sans-serif; font-size: 2.1rem; color: rgb(56, 56, 56); line-height: 2rem;}
+.result-exp{position: absolute; top: 439%; left: 6%;font-family: Monasans, sans-serif;font-size: 1.3rem;color:rgb(107, 107, 107);line-height: 2rem;}
+.first-re{position: absolute;top: 475%; height: 101vh;left: 7%;}
+.second-re{position: absolute;top: 475%; height: 101vh;left: 38.5%;}
+.third-re{position: absolute;top: 475%; height: 101vh;left: 70%;}
+.fourth-re{position: absolute;top: 591%; height: 101vh;left: 7%;}
+.five-re{position: absolute;top: 591%; height: 101vh;left: 38.5%;}
+.six-re{position: absolute;top: 591%; height: 101vh;left: 70%;}
+.seven-re{position: absolute;top: 707%; height: 101vh;left: 38.5%;}
+.new{position: absolute; top: 825%; left: 6%;font-family: Monasans, sans-serif; color:rgb(47, 47, 47);}
+.bluez{position: absolute; top: 850%;}
+.firsts{left: 52.5%;}
+.big{position: absolute; left: 52.5%;}
